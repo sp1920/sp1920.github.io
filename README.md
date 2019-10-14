@@ -12,3 +12,8 @@
 
  - Dozenten: Benjamin Roth, Marina Sedinkina
  - Tutoren: Johannes Dollinger, Leonhard Wabro, Yindong Wang
+
+
+| Date | slides | homework | materials |
+|-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
+| Oct. 16, 2018 | [Course Intro](01_intro.pdf){:target="_blank"}; |  |  |
