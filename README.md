@@ -13,7 +13,10 @@
  - Dozenten: Benjamin Roth, Marina Sedinkina
  - Tutoren: Johannes Dollinger, Leonhard Wabro, Yindong Wang
  
- 
+ Sie erreichen den Dozenten und die Tutoren unter:
+
+sp1920 [at] cis [dot] uni [minus] muenchen [dot] de
+
  Anmeldung zur Vorlesung:
  - Studenten mit Computerlinguistik als Hauptfach, und nicht-Informatiker melden sich bitte über das LSF zur Vorlesung an.
  - Studenten mit Informatik als Hauptfach benutzen bitte das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSdAMdh79UT-GNTFtTSb56pe9vIlrUzL7XcWLutMJwskHZeCzw/viewform){:target="_blank"}
