@@ -12,6 +12,13 @@
 
  - Dozenten: Benjamin Roth, Marina Sedinkina
  - Tutoren: Johannes Dollinger, Leonhard Wabro, Yindong Wang
+ 
+ 
+ Anmeldung zur Vorlesung:
+ - Studenten mit Computerlinguistik als Hauptfach, und nicht-Informatiker melden sich bitte über das LSF zur Vorlesung an.
+ - Studenten mit Informatik als Hauptfach benutzen bitte das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSdAMdh79UT-GNTFtTSb56pe9vIlrUzL7XcWLutMJwskHZeCzw/viewform){:target="_blank"}
+ 
+
 
 
 | Date | slides | homework | materials |
