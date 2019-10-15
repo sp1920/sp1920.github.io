@@ -23,6 +23,8 @@ sp1920 [at] cis [dot] uni [minus] muenchen [dot] de
  
 Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScgSt9Wjyd5-KBKZPa3vBRvHsvNrSNZ5tJ5ZojK2XStb7YT2Q/viewform){:target="_blank"}
 
+Zur eigenständigen Vertiefung der Python-Grundkenntnisse wird dieses Online-Tutorial empfohlen: [Python Course](https://www.python-course.eu/python3_course.php){:target="_blank"}
+
 
 
 | Date | slides | homework | materials |
