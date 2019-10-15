@@ -21,6 +21,7 @@ sp1920 [at] cis [dot] uni [minus] muenchen [dot] de
  - Studenten mit Computerlinguistik als Hauptfach, und nicht-Informatiker melden sich bitte über das LSF zur Vorlesung an.
  - Studenten mit Informatik als Hauptfach benutzen bitte das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSdAMdh79UT-GNTFtTSb56pe9vIlrUzL7XcWLutMJwskHZeCzw/viewform){:target="_blank"}
  
+Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScgSt9Wjyd5-KBKZPa3vBRvHsvNrSNZ5tJ5ZojK2XStb7YT2Q/viewform){:target="_blank"}
 
 
 
