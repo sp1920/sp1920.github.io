@@ -25,6 +25,8 @@ sp1920 [at] cis [dot] uni [minus] muenchen [dot] de
 
 Zur eigenständigen Vertiefung der Python-Grundkenntnisse wird dieses Online-Tutorial empfohlen: [Python Course](https://www.python-course.eu/python3_course.php){:target="_blank"}
 
+Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/pycharm/) für die Bearbeitung der Übungsaufgaben zu nutzen, welches insbesondere auch Git unterstützt. Eine kurze Einleitung zu PyCharm befindet sich [hier](pycharm.pdf).
+
 
 
 | Date | slides | homework | materials |
