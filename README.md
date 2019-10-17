@@ -29,7 +29,7 @@ Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/p
 
 Eine Einleitung für den Zugang zu Gitlab2 befindet sich [hier](https://www.rz.ifi.lmu.de/infos/gitlab_de.html).
 
-
+Gruppen die sich bereits über das Webformular angemeldet haben, aber keine gültigen Gitlab2 Kennungen angegeben haben, melden sich bitte bei uns. 
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
