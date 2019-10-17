@@ -34,4 +34,4 @@ Eine Einleitung für den Zugang zu Gitlab2 befindet sich [hier](https://www.rz.i
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | Oct. 15, 2019 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_recap.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} | |  |
-| Oct. 17, 2019 |  | [homework 1](hw01_python_basics.pdf){:target="_blank"}|  [Einführung in Git](git_into_1.pdf){:target="_blank"} |
+| Oct. 17, 2019 |  | [homework 1](hw01_python_basics.pdf){:target="_blank"}|  [Einführung in Git](git_intro_1.pdf){:target="_blank"} |
