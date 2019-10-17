@@ -27,6 +27,8 @@ Zur eigenständigen Vertiefung der Python-Grundkenntnisse wird dieses Online-Tut
 
 Es wird empfohlen die Entwicklungsumgebung [PyCharm](https://www.jetbrains.com/pycharm/) für die Bearbeitung der Übungsaufgaben zu nutzen, welches insbesondere auch Git unterstützt. Eine kurze Einleitung zu PyCharm befindet sich [hier](pycharm.pdf).
 
+Eine Einleitung für den Zugang zu Gitlab2 befindet sich [hier](https://www.rz.ifi.lmu.de/infos/gitlab_de.html).
+
 
 
 | Date | slides | homework | materials |
