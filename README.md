@@ -29,4 +29,4 @@ Zur eigenständigen Vertiefung der Python-Grundkenntnisse wird dieses Online-Tut
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
-| Oct. 15, 2019 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_recap.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} |   |  |
+| Oct. 15, 2019 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_recap.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} | [homework 1](hw01_python_basics.pdf){:target="_blank"}|  |
