@@ -35,3 +35,5 @@ Gruppen die sich bereits über das Webformular angemeldet haben, aber keine gül
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | Oct. 15, 2019 | [Course Intro](01_intro.pdf){:target="_blank"}; [Python Basics](01_python_recap.pdf){:target="_blank"}; [Python Tests](01_unit_testing.pdf){:target="_blank"} | |  |
 | Oct. 17, 2019 |  | [homework 1](hw01_python_basics.pdf){:target="_blank"}|  [Einführung in Git](git_intro_1.pdf){:target="_blank"}; [Generalübung](sp-gü1017.zip){:target="_blank"} |
+| Oct. 22, 2019 |  [Objektorientierung I](objektorientierungI.pdf){:target="_blank"}; [Wiederholung: Listen](wiederholung-listen.pdf){:target="_blank"} |  | [Objektorientierung (Skript)](oop_script.pdf){:target="_blank"} |
+
