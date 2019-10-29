@@ -17,9 +17,14 @@
 
 sp1920 [at] cis [dot] uni [minus] muenchen [dot] de
 
- Anmeldung zur Vorlesung:
- - Studenten mit Computerlinguistik als Hauptfach, und nicht-Informatiker melden sich bitte über das LSF zur Vorlesung an.
- - Studenten mit Informatik als Hauptfach benutzen bitte das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSdAMdh79UT-GNTFtTSb56pe9vIlrUzL7XcWLutMJwskHZeCzw/viewform){:target="_blank"}
+### Klausur
+ - Die Klausur zur Übung findet am Do. 9.1. um 16:00 statt und dauert 45 Minuten. Raum: Oettingenstr. 67 B U101
+ - Die Klausur zur Vorlesung findet am Di. 4.2. um 16:00 statt und dauert 45 Minuten. (Raum wird noch bekannt gegeben)
+ - Die Nachklausuren finden am Samstag den 22.2. statt:
+   - Nachklausur Vorlesung um 10:00, Dauer 45 Minuten.
+   - Nachklausur Übung um 11:00, Dauer 45 Minuten. (Raum wird noch bekannt gegeben)
+ - Es sind keine Hilfsmittel zugelassen.
+   
  
 Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScgSt9Wjyd5-KBKZPa3vBRvHsvNrSNZ5tJ5ZojK2XStb7YT2Q/viewform){:target="_blank"}
 
