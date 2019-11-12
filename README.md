@@ -46,4 +46,4 @@ Gruppen die sich bereits über das Webformular angemeldet haben, aber keine gül
 | Oct. 30, 2019 | | [homework 3](hw03_documents.pdf){:target="_blank"}| | 
 | Nov. 5, 2019 | [TF-IDF](04_tf_idf.pdf){:target="_blank"}; [Simple Search Engine](04_search_engine.pdf){:target="_blank"} |  |  
 | Nov. 6, 2019| | [homework 4](hw04_text_search.pdf){:target="_blank"}| [enron.tgz](enron.tgz){:target="_blank"} |
-| Nov. 13, 2019 | [Objektorientierung III](objektorientierungIII.pdf){:target="_blank"}; [Klassifikation](maschinelles_lernen_intro.pdf){:target="_blank"} |  |  |
+| Nov. 12, 2019 | [Objektorientierung III](objektorientierungIII.pdf){:target="_blank"}; [Klassifikation](maschinelles_lernen_intro.pdf){:target="_blank"} |  |  |
