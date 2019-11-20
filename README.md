@@ -48,4 +48,4 @@ Gruppen die sich bereits über das Webformular angemeldet haben, aber keine gül
 | Nov. 6, 2019| | [homework 4](hw04_text_search.pdf){:target="_blank"}| [enron.tgz](enron.tgz){:target="_blank"} |
 | Nov. 12, 2019 | [Objektorientierung III](objektorientierungIII.pdf){:target="_blank"} |  |  |
 | Nov. 19, 2019 | [Klassifikation](maschinelles_lernen_intro.pdf){:target="_blank"}; [Naive Bayes Klassifikator](06_naive_bayes.pdf){:target="_blank"} |  |  |
-| Nov. 20, 2019| | [homework 5](hw04_naive_bayes.pdf){:target="_blank"}| |
+| Nov. 20, 2019| | [homework 5](hw05_naive_bayes.pdf){:target="_blank"}| |
