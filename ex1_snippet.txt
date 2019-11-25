@@ -1,0 +1,8 @@
+    @classmethod
+    def from_list_of_feature_occurrences(cls, feature_list, label):
+        """ Creates feature counts for all features in the list."""
+        feature_counts = dict()
+        for feature in feature_list:
+            count = feature_counts.get(feature, 0)
+            feature_counts[feature] = count + 1
+        return cls(feature_counts, label)
