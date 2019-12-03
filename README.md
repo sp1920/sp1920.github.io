@@ -49,3 +49,4 @@ Gruppen die sich bereits über das Webformular angemeldet haben, aber keine gül
 | Nov. 12, 2019 | [Objektorientierung III](objektorientierungIII.pdf){:target="_blank"} |  |  |
 | Nov. 19, 2019 | [Klassifikation](maschinelles_lernen_intro.pdf){:target="_blank"}; [Naive Bayes Klassifikator](06_naive_bayes.pdf){:target="_blank"} |  |  |
 | Nov. 20, 2019| | [homework 5](hw05_naive_bayes.pdf){:target="_blank"}| Hinweis: Für Aufgabe 1 können Sie den folgenden Programcode verwenden: [ex1_snippet.txt](ex1_snippet.txt) |
+| Dec. 3, 2019 | [Unsupervised vs Supervised Learning](Unsupervised.pdf){:target="_blank"} |  |  |
