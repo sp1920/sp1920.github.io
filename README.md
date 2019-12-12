@@ -52,4 +52,4 @@ Gruppen die sich bereits über das Webformular angemeldet haben, aber keine gül
 | Dec. 3, 2019 | [Unsupervised vs Supervised Learning](Unsupervised.pdf){:target="_blank"} |  |  |
 | Dec. 4, 2019 | | [homework 6](hw06_knn.pdf){:target="_blank"}| | 
 | Dec. 10, 2019 | [NLTK](nltk.pdf){:target="_blank"}; [Probeklausur Übung](probe_klausur_ue.pdf){:target="_blank"} |  |  |
-| Dec. 11, 2019 | | [homework 7](hw07_kmeans.pdf){:target="_blank"}| |
+| Dec. 11, 2019 | | [homework 7](hw07_kmeans.pdf){:target="_blank"}|[courses.txt](courses.txt){:target="_blank"} |
