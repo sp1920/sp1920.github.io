@@ -54,3 +54,4 @@ Gruppen die sich bereits über das Webformular angemeldet haben, aber keine gül
 | Dec. 10, 2019 | [NLTK](nltk.pdf){:target="_blank"}; [Probeklausur Übung](probe_klausur_ue.pdf){:target="_blank"} **Hinweis (13.12.): Aufgabe 5 aktualisiert**|  |  |
 | Dec. 11, 2019 | | [homework 7](hw07_kmeans.pdf){:target="_blank"}|[courses.txt](courses.txt){:target="_blank"} Hinweis: Bei vector_mean fehlt ein pass statement, damit der unittest auch ohne Bearbeitung des Codes durchläuft |
 | Dec. 17, 2019 | [NLTK vs spaCy](nltk-spacy.pdf){:target="_blank"} |  |  |
+| Dec. 17, 2019 | [WordNet](wordnet_spacy.pdf){:target="_blank"} |  |  |
