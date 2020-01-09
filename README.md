@@ -55,3 +55,4 @@ Gruppen die sich bereits über das Webformular angemeldet haben, aber keine gül
 | Dec. 11, 2019 | | [homework 7](hw07_kmeans.pdf){:target="_blank"}|[courses.txt](courses.txt){:target="_blank"} Hinweis: Bei vector_mean fehlt ein pass statement, damit der unittest auch ohne Bearbeitung des Codes durchläuft |
 | Dec. 17, 2019 | [NLTK vs spaCy](nltk-spacy.pdf){:target="_blank"} |  |  |
 | Jan. 7, 2020 | [WordNet](wordnet_spacy.pdf){:target="_blank"} |  |  |
+| Jan. 9, 2020 | [homework 8](hw08_nltk.pdf){:target="_blank"}|  |  |
