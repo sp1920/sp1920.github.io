@@ -56,3 +56,5 @@ Gruppen die sich bereits über das Webformular angemeldet haben, aber keine gül
 | Dec. 17, 2019 | [NLTK vs spaCy](nltk-spacy.pdf){:target="_blank"} |  |  |
 | Jan. 7, 2020 | [WordNet](wordnet_spacy.pdf){:target="_blank"} |  |  |
 | Jan. 9, 2020 | | [homework 8](hw08_nltk.pdf){:target="_blank"} | [ada_lovelace.txt](ada_lovelace.txt){:target="_blank"} |
+| Jan. 14, 2020 | [Crawling; POS Tagging](crawling_pos.pdf){:target="_blank"} |  |  |
+Crawling; POS Tagging
