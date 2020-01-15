@@ -57,3 +57,4 @@ Gruppen die sich bereits über das Webformular angemeldet haben, aber keine gül
 | Jan. 7, 2020 | [WordNet](wordnet_spacy.pdf){:target="_blank"} |  |  |
 | Jan. 9, 2020 | | [homework 8](hw08_nltk.pdf){:target="_blank"} | [ada_lovelace.txt](ada_lovelace.txt){:target="_blank"} |
 | Jan. 14, 2020 | [Crawling; POS Tagging](crawling_pos.pdf){:target="_blank"} |  |  |
+| Jan. 15, 2020 | | [homework 9](hw09_wordnet.pdf){:target="_blank"} | |
