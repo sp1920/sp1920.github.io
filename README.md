@@ -18,8 +18,9 @@
 sp1920 [at] cis [dot] uni [minus] muenchen [dot] de
 
 ### Klausur
- - Die Klausur zur Übung findet am Do. 9.1.2020 um 16:00 statt und dauert 45 Minuten. Raum: Oettingenstr. 67 B U101
  - Die Klausur zur Vorlesung findet am Di. 4.2.2020 um 16:00 statt und dauert 45 Minuten. (Raum wird noch bekannt gegeben)
+   - Computerlinguisten und Studierende deren Hauptfach über LSF verwaltet wird, müssen sich im LSF anmelden
+   - Studierende mit Hauptfach Informatik benutzen bitte das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSfn9qkpnIOYmeI-awrTpSskd_38aG8AgdG9WaGFI_0klx9DGg/viewform?usp=sf_link){:target="_blank"}
  - Die Nachklausuren finden am Samstag den 22.2.2020 statt:
    - Nachklausur Vorlesung um 10:00, Dauer 45 Minuten.
    - Nachklausur Übung um 11:00, Dauer 45 Minuten. (Raum wird noch bekannt gegeben)
