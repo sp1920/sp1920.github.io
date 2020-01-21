@@ -18,9 +18,12 @@
 sp1920 [at] cis [dot] uni [minus] muenchen [dot] de
 
 ### Klausur
- - Die Klausur zur Vorlesung findet am Di. 4.2.2020 um 16:00 statt und dauert 45 Minuten. (Raum wird noch bekannt gegeben)
-   - Computerlinguisten und Studierende deren Hauptfach über LSF verwaltet wird, müssen sich im LSF anmelden
+ - Die Klausur zur Vorlesung findet am Di. 4.2.2020 um 16:00 statt und dauert 45 Minuten.
+   - Hauptfach Computerlinguistik und Studierende, deren Hauptfach über LSF verwaltet wird, müssen sich im LSF anmelden
    - Studierende mit Hauptfach Informatik benutzen bitte das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSfn9qkpnIOYmeI-awrTpSskd_38aG8AgdG9WaGFI_0klx9DGg/viewform?usp=sf_link){:target="_blank"}
+ - Räume für die Vorlesungsklausur am am Di. 4.2.2020 um 16:00:
+   - Hauptfach Computerlinguistik und Studierende, deren Hauptfach über LSF verwaltet wird: **Geschwister-Scholl-Platz 1, Raum E 004**
+   - Studierende mit Hauptfach Informatik: **Oettingenstr. 67, Hörsaal L 155**
  - Die Nachklausuren finden am Samstag den 22.2.2020 statt:
    - Nachklausur Vorlesung um 10:00, Dauer 45 Minuten.
    - Nachklausur Übung um 11:00, Dauer 45 Minuten. (Raum wird noch bekannt gegeben)
