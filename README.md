@@ -63,4 +63,4 @@ Gruppen die sich bereits über das Webformular angemeldet haben, aber keine gül
 | Jan. 14, 2020 | [Crawling; POS Tagging](crawling_pos.pdf){:target="_blank"} |  |  |
 | Jan. 15, 2020 | | [homework 9](hw09_wordnet.pdf){:target="_blank"} | |
 | Jan. 21, 2020 | [Summary](zusammenfassung.pdf){:target="_blank"}; [Probeklausur Vorlesung](probe_klausur_vl.pdf){:target="_blank"} |  |  |
-| Jan. 22, 2020 | | [homework 10](hw10_crawling.pdf){:target="_blank"} | |
+| Jan. 22, 2020 | | [homework 10](hw10_crawling.pdf){:target="_blank"} | [hydrogenics_report.txt](hydrogenics_report.txt){:target="_blank"} |
