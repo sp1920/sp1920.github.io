@@ -29,7 +29,7 @@ sp1920 [at] cis [dot] uni [minus] muenchen [dot] de
    - Nachklausur Übung um 11:00, Dauer 45 Minuten. (Raum wird noch bekannt gegeben)
  - Es sind keine Hilfsmittel zugelassen.
 
-## Ergebnisse der Klausur zur Übung
+### Ergebnisse der Klausur zur Übung
 - Ergebnisse der Klausur zur Übung (ohne Bonuspunkte) [Klausurergebnisse (Übung)](klausurergebnisse_uebung.md)
  
 Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScgSt9Wjyd5-KBKZPa3vBRvHsvNrSNZ5tJ5ZojK2XStb7YT2Q/viewform){:target="_blank"}
