@@ -1,4 +1,4 @@
-## Klausurergebnisse
+## Ergebnisse Klausur zur Übung
 ## Bewertungsschema Klausur
 
 Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den Übungsaufgaben): 25
