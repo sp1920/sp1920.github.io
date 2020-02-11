@@ -28,6 +28,7 @@ Berechnung der Bonuspunkte: ((erreichte Punktzahl in den Übungsaufgaben) / 137)
 Die Bonuspunkte werden zu den Klausurpunkten addiert (d.h. Klausurpunkte + Bonuspunkte = max. 27.5); die Note wird nach obigem Notenschema festgelegt.
 
 | MatrikelNr. | Punkte Klausur | inkl. Bonus | Note |
+| --- | --- | --- | --- |
 | 1184202 | 16 | 16 | 2,7 |
 | 2248381 | 20 | 22 | 1,3 |
 | 3688474 | 18,5 | 18,5 | 2,3 |
