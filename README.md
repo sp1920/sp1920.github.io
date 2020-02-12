@@ -33,7 +33,7 @@ sp1920 [at] cis [dot] uni [minus] muenchen [dot] de
 - Ergebnisse der Klausur zur Übung (ohne Bonuspunkte) [Klausurergebnisse (Übung)](klausurergebnisse_uebung.md)
 - Ergebnisse der Klausur zur Vorlesung [Klausurergebnisse (Vorlesung)](klausurergebnisse_vorlesung.md)
 
-Klausureinsicht: Freitag, 14.2.2020, 15:00 Raum C 105 (Oettingenstr. 67).
+Klausureinsicht: Freitag, 14.2.2020, 15:00 Raum 123 (Oettingenstr. 67).
 
 Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScgSt9Wjyd5-KBKZPa3vBRvHsvNrSNZ5tJ5ZojK2XStb7YT2Q/viewform){:target="_blank"}
 
