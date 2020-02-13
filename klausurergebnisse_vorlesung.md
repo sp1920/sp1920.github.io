@@ -29,7 +29,7 @@ Die Bonuspunkte werden zu den Klausurpunkten addiert (d.h. Klausurpunkte + Bonus
 
 | MatrikelNr. | Punkte Klausur | inkl. Bonus | Note |
 | --- | --- | --- | --- |
-| 1184202 | 16 | 16 | 2,7 |
+| 11854202 | 16 | 16 | 2,7 |
 | 2248381 | 20 | 22 | 1,3 |
 | 3688474 | 18,5 | 18,5 | 2,3 |
 | 03695361 | 23,5 | 26 | 1 |
