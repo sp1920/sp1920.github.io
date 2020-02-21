@@ -27,7 +27,7 @@ sp1920 [at] cis [dot] uni [minus] muenchen [dot] de
  - Die **Nachklausuren** finden am Samstag den 22.2.2020, im **Hörsaal B001, Oettingenstr. 67** statt:
    - Nachklausur **Vorlesung** um 10:00, Dauer 45 Minuten.
      - Studierende, deren Studienfach über LSF verwaltet wird müssen sich über das LSF anmelden.
-     - Studierende, deren Fach **nicht** über LSF verwaltet wird (Informatiker), melden sich bitte bis spätestetens 20.2.2020 über das [Webformular](https://docs.google.com/forms/d/e/1FAIpQLSehXFHibgayIO2sZIgB-gTsvghXZ-4mkRAUNK246TNTKuL4TQ/viewform?usp=sf_link) an.
+     - Studierende, deren Fach **nicht** über LSF verwaltet wird (Informatiker), melden sich bitte bis spätestetens 20.2.2020 über das Webformular an (Anmeldung geschlossen).
    - Nachklausur **Übung** um 11:00, Dauer 45 Minuten, Anmeldung über LSF.
  - Es sind keine Hilfsmittel zugelassen.
 
