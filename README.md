@@ -17,6 +17,11 @@
 
 sp1920 [at] cis [dot] uni [minus] muenchen [dot] de
 
+
+### Ergebnisse der Nachklausuren
+- Ergebnisse der Nachklausur zur Vorlesung [Ergebnisse (Vorlesung)](nachklausur_ergebnisse_vorlesung.md)
+- Ergebnisse der Nachklausur zur Übung [Ergebnisse (Übung)](nachklausur_ergebnisse_uebung.md)
+
 ### Klausur
  - Die Klausur zur Vorlesung findet am Di. 4.2.2020 um 16:00 statt und dauert 45 Minuten.
    - Hauptfach Computerlinguistik und Studierende, deren Hauptfach über LSF verwaltet wird, müssen sich im LSF anmelden
@@ -30,12 +35,6 @@ sp1920 [at] cis [dot] uni [minus] muenchen [dot] de
      - Studierende, deren Fach **nicht** über LSF verwaltet wird (Informatiker), melden sich bitte bis spätestetens 20.2.2020 über das Webformular an (Anmeldung geschlossen).
    - Nachklausur **Übung** um 11:00, Dauer 45 Minuten, Anmeldung über LSF.
  - Es sind keine Hilfsmittel zugelassen.
-
-### Ergebnisse der Klausuren
-- Ergebnisse der Klausur zur Übung (ohne Bonuspunkte) [Klausurergebnisse (Übung)](klausurergebnisse_uebung.md)
-- Ergebnisse der Klausur zur Vorlesung [Klausurergebnisse (Vorlesung)](klausurergebnisse_vorlesung.md)
-
-Klausureinsicht: Freitag, 14.2.2020, 15:00 Raum 123 (Oettingenstr. 67).
 
 Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://docs.google.com/forms/d/e/1FAIpQLScgSt9Wjyd5-KBKZPa3vBRvHsvNrSNZ5tJ5ZojK2XStb7YT2Q/viewform){:target="_blank"}
 
